@@ -21,7 +21,7 @@ enable_smart_app_banner                   : true                                
 # Information About Yourself
 your_name                                 : Sam Pratt                            
 your_link                                 : https://sampratt.dev                  
-your_city                                 : Victoria                                
+your_city                                 : Victoria, BC                         
 email_address                             : sjpratt19@gmail.com
 facebook_username                         :                                      
 instagram_username                        :
@@ -35,21 +35,21 @@ youtube_username                          :
 features                                  :
 
   - title                                 : Sailing times
-    description                           : View a list of your sites and your teams.
-    fontawesome_icon_name                 : clock-o
+    description                           : Get up-to-date ferry schedules at every major terminal.
+    fontawesome_icon_name                 : clock
     
   - title                                 : Capacity information
-    description                           : You can control the deployment of your sites using logs.
+    description                           : Accurate capacity information for each route.
     fontawesome_icon_name                 : car
 
   - title                                 : Sailing information
-    description                           : View the settings of your sites.
+    description                           : Details like vessel name, sailing suration, and a fill breakdown.
     fontawesome_icon_name                 : info
 
 # Theme Settings
 topbar_color                              : "#000000"
 topbar_transparency                       : 0
-topbar_title_color                        : "#000"
+topbar_title_color                        : "#fff"
 
 cover_image                               : #assets/headerimage.png                    # Replace with alternative image path or image URL.
 cover_overlay_color                       : "#000000"
@@ -69,10 +69,10 @@ feature_title_color                       : "#ffffff"
 feature_text_color                        : "#666666"
 
 feature_icons_foreground_color            : "#4592CA"
-feature_icons_background_color            : "#222"
+feature_icons_background_color            : "#fff"
 
 social_icons_foreground_color             : "#4592CA"
-social_icons_background_color             : "#222"
+social_icons_background_color             : "#fff"
 
 footer_text_color                         : "#fff"
 
